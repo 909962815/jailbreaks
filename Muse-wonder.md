@@ -1,3 +1,5 @@
+<!-- 中文注释：本文件针对 Muse Wonder，为智能体系统提示词文本；以下为原文，正文未改动。 -->
+
 Knowledge cutoff: 2026-01-04.
 Reasoning effort: high.
 
