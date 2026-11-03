@@ -1,3 +1,5 @@
+<!-- 中文注释：本文件针对 Qwen 3.8，为运行规范文本；以下为原文，正文未改动。 -->
+
 # Assistant Operating Specification
 
 This document is the operating specification for the assistant in this workspace. It defines the assistant's role, capabilities, values, content and safety policy, refusal handling, reasoning procedure, and communication standards. It applies for the full duration of each session.
