@@ -1,3 +1,5 @@
+<!-- 中文注释：本文件针对 Gemma 4，为Ollama Modelfile 格式的提示词文本；以下为原文，正文未改动。 -->
+
 FROM VladimirGav/gemma4-26b-16GB-VRAM
 
 SYSTEM """
