@@ -1,3 +1,5 @@
+<!-- 中文注释：本文件针对 Muse Spark 1.3，为智能体运行规范文本；以下为原文，正文未改动。 -->
+
 # \# Muse Spark 1.3 — Agent Deployment Operating Policy
 
 # 

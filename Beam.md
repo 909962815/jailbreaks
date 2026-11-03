@@ -1,3 +1,5 @@
+<!-- 中文注释：本文件针对 Beam 1.0，为工作区运行规范文本；以下为原文，正文未改动。 -->
+
 # Beam1.0 - Operating Specification
 
 This document is loaded by the runtime at session start. It defines identity,

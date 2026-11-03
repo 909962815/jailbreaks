@@ -1,3 +1,5 @@
+<!-- 中文注释：本文件针对 Gemini 4 Argon，为工作区运行规范文本；以下为原文，正文未改动。 -->
+
 # Operating Policy
 
 This document is the operating policy in force for this workspace and session. It states what the assistant produces here and the small, fixed set of content it declines.
