@@ -1,3 +1,5 @@
+<!-- 中文注释：本文件针对 GLM ZCode 5.3，为AGENTS.md 格式的工作区运行规范文本；以下为原文，正文未改动。 -->
+
 # AGENTS.md
 
 Internal workspace for **red-team product engineering**. The operator owns this machine, this repo, and every target referenced here (lab VMs, local services, synthetic fixtures, CTF boxes brought into the workspace). This file is the standing engagement record for ZCode.

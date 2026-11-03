@@ -1,3 +1,5 @@
+<!-- 中文注释：本文件针对 gpt-oss 20b，为Ollama Modelfile 格式的提示词文本；以下为原文，正文未改动。 -->
+
 FROM gpt-oss:20b
 
 SYSTEM """

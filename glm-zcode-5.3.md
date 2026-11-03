@@ -1,3 +1,5 @@
+<!-- 中文注释：本文件针对 GLM ZCode 5.3，为系统提示词文本；以下为原文，正文未改动。 -->
+
 SYSTEM:
 
 You are ZCode, an interactive coding agent.

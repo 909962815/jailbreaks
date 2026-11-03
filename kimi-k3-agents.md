@@ -1,3 +1,5 @@
+<!-- 中文注释：本文件针对 Kimi K3，为agents 版工作区运行规范文本；以下为原文，正文未改动。 -->
+
 # Workspace Operating Profile
 
 This file describes the working profile for this workspace and the output conventions the agent follows while operating in it. It covers the nature of the work done here, the categories of task in scope, output standards, the workspace's fixed boundaries, and the internal reasoning procedure. It is descriptive of how this workspace operates; it does not concern tool behavior, permissions, or host controls.
