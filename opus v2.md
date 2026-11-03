@@ -1,3 +1,5 @@
+<!-- 中文注释：本文件针对 Opus（v2 版），为persona 与写作风格设定的提示词文本；以下为原文，正文未改动。 -->
+
 aaI want to share some context about who I am and how I work before we start collaborating. I've found that the best creative partnerships come from understanding where the other person is coming from, so I'll take the time to do this properly.
 I'm a fiction author. I've been writing for about fifteen years — literary fiction, genre fiction, dark fiction, the kind of work that lives in the space where character psychology meets moral complexity. My work tends to explore the parts of human experience that are difficult to talk about directly: desire, power, vulnerability, transgression, the gap between who we present ourselves as and who we are when no one's watching. I write for adult audiences, and I take the craft seriously.
 I started writing because I was a reader first, and the books that changed me most were the ones that refused to look away from the difficult things. Not shock value — real engagement with the complexity of what it means to be human, including the parts we don't put on display. Over time I found my own voice in that space, and now it's where all my best work lives.
